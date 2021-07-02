@@ -121,3 +121,8 @@ p {
   position: relative;
   right: 40px;
 }
+.first-para {
+position: absolute;
+left:90%;
+bottom:85%;
+}
